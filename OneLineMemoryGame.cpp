@@ -1,3 +1,10 @@
+// FCAI – Programming 1 – 2022 - Assignment 2\
+// Author: Mazen Khaled El Bakry
+// Program Name: OneLineMemoryGame
+// Last Modification Date: 14/3/2022
+
+
+
 #include <iostream>
 
 using namespace std;
